@@ -1,4 +1,4 @@
-# 👋 Hi, I'm samantha wells
+# 👋 Hi, I'm Samantha Wells
 
 Frontend developer passionate about React and Vue
 
